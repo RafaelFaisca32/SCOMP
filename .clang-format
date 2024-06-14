@@ -1,0 +1,23 @@
+﻿---
+BasedOnStyle: Chromium
+AlignConsecutiveMacros: 'true'
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+AlignEscapedNewlines: Right
+AlignOperands: 'true'
+AllowShortBlocksOnASingleLine: 'true'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: 'true'
+ColumnLimit: '100'
+ContinuationIndentWidth: '8'
+IndentWidth: '8'
+IndentWrappedFunctionNames: 'true'
+MaxEmptyLinesToKeep: '2'
+SortIncludes: 'true'
+TabWidth: '8'
+UseTab: Never
+
+...
